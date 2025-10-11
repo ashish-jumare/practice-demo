@@ -1,0 +1,8 @@
+    {
+      "name": "Example Item",
+      "id": 123,
+      "_comment": "This is a comment about the item's details.",
+      "details": {
+        "description": "A detailed description."
+      }
+    }
